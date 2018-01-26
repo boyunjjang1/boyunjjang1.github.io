@@ -1,0 +1,17 @@
+---
+layout: post
+title: Japan Trip
+date: 2018-01-25 02:01:20 +82
+description: Japan Trip
+img: japan-boyun.JPG
+tags: [Blog, Japan]
+author:
+---
+
+
+![japan-boyun.JPG](/assets/img/japan-boyun.JPG)  
+10월 처음 일본 갔을 때 깃 블로그 만들어서 포스팅 한다고 마음 먹었었는데,,,  
+3개월만에 겨우 만들고 포스팅 한다 ㅠ.ㅠ  
+일본 넘 좋아
+日本　大好き！！＞＿＿＜！
+{{post.img}}
