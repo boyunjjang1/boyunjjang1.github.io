@@ -9,15 +9,7 @@
         <ul>
           <li><a href="{{site.baseurl}}/">Blog</a></li>
           <li><a href="{{site.baseurl}}/about">About</a></li>
-          {% assign pages_list = site.pages %}
-          {% for node in pages_list %}
-          {% if node.title != null %}
-          {% if node.layout == "category" %}
-          <li><a class="category-link {% if page.url == node.url %} active{% endif %}"
-              href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
-          {% endif %}
-          {% endif %}
-          {% endfor %}
+          <li><a href="{{site.baseurl}}/Unix">About</a></li>
         </ul>
       </nav>
       <p class="logo"><a href="{{site.baseurl}}/">{{ site.author }}</a></p>
