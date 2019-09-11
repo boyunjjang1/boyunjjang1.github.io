@@ -1287,6 +1287,7 @@ pre code {
   margin-bottom: 0.5%;
   -webkit-transition: all .3s;
   transition: all .3s;
+  border-radius: 80px;
 }
 
 .recent-box .recent-list .recent-item span {
