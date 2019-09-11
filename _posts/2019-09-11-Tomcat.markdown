@@ -10,7 +10,7 @@ author: Boyun
 
 
 ![tomcatImg.PNG](/assets/img/tomcatImg.PNG)  
-### Apache Tomcat 설치하기!
+## Apache Tomcat 설치하기!
 Apache Tomcat 이란? 아파치 소프트웨어 재단에서 개발한 WAS(Web Application Server)
 
 자바로 웹 어플리케이션을 개발하려면 WAS가 있어야 실행된다.
