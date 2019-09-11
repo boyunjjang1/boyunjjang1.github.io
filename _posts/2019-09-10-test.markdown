@@ -2,7 +2,7 @@
 layout: post
 title: test
 date: 2019-09-10 22:30:02 +82
-categories : cateory
+categories : category
 description: Test
 img: 
 tags: [Unix, Test]
