@@ -2,9 +2,8 @@
 layout: post
 title: Unix
 date: 2019-09-10 22:30:02 +82
-categories : category
 description: Test
-img: 
+img: macbook-2.png
 tags: [Unix, Test]
 author:
 ---
