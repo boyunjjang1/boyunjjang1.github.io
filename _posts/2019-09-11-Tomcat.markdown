@@ -4,7 +4,7 @@ title: Web
 date: 2019-09-11 20:52:02 +82
 description: How to Tomcat install
 img: tomcatImg.PNG
-tags: [AWS, Tomcat]
+tags: [WAS, Tomcat]
 author: Boyun
 ---
 
