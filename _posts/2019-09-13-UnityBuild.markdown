@@ -9,11 +9,11 @@ author: boyun
 ---
 
 
-<!-- ![japan-1.jpg]({{site.url}}/assets/img/japan-1.JPG)
+![japan-1.jpg](/assets/img/unityMain.PNG)
 
-{% highlight c %}
+<!-- {% highlight c %}
 printf("Hello Japan!");
-{% endhighlight %} -->
+{% endhighlight %} --> -->
 
 <!-- {% highlight c %} -->
 <!-- {% endhighlight %} -->
